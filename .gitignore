@@ -1,0 +1,6 @@
+.env
+models/
+__pycache__
+my_venv/
+*.log
+*.db
